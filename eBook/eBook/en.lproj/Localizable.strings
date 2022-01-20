@@ -1,0 +1,96 @@
+/* 
+  Localizable.strings
+  eBook
+
+  Created by Fno Khalid on 01/05/1443 AH.
+  
+*/
+
+// welcome Page
+"descriptionLabel" = "Read your Book with us \n any time and anywhere";
+"About Us" = "About Us";
+"Login Now" = "Login Now";
+"Create an Account" = "Create an Account";
+
+// login Page:
+"login" = "Login";
+"email" = "Enter Your Email ";
+"password" = "Enter Your Password ";
+"Sign In" = "Sign In";
+"register" = "Don't have an account? Register Now";
+
+// register page:
+"Register" = "Registration";
+"name" = "Full Name";
+"email" = "Enter Your Email ";
+"password" = "Enter Your Password ";
+"Sign Up" = "Sign Up";
+"Already a Member? Sign In" = "Already a Member? Sign In";
+
+// forget password:
+"forget" = "Forget Password?";
+
+// tab Bar:
+"home" = "Home";
+"child" = "Children";
+"favourite" = "Favourite";
+"profile" = "Profile";
+
+// label:
+"choose" = "Choose The Book Language :";
+
+// buttons:
+"english" = "English";
+"arabic" = "Arabic";
+
+// Favourite page:
+"favPage" = "Favourite Books";
+
+// profile page:
+"profile" = "Profile";
+"write" = "Write Your Name";
+"change" = "Change Language       ";
+"mode" = "Kids Mode         .";
+"darkMode" = "Dark Mode        .";
+"share" ="Share App         ";
+"signOut" = "Sign Out           ";
+
+
+// delete from favorite Books
+"delete" = "Delete Book";
+"areYou?" = "Do you want delete this Book?";
+"cancel" = "Cancel";
+"d" = "Delete";
+
+// greeting
+"Good Afternoon" = " Good Afternoon";
+"Good Morning" = " Good Morning";
+"Good Evening" = " Good Evening";
+"Good Night" = ".  😴 Good Night";
+"Sleep" = ".  💤 Good Night";
+
+// child Greeting
+"Good AfternoonB" = "Good Afternoon little reader ♥️";
+"Good MorningB" = "Good Morning little reader ♥️";
+"Good EveningB" = "Good Evening little reader ♥️";
+"Good NightB" = "Good Night little reader 😴";
+"SleepB" = "You should be sleeping right now 💤";
+
+
+// word
+"delete" = "Delete";
+"back" = "Back";
+"faceId" = "Face ID";
+"touchId" = "Touch ID";
+
+// message
+"enterRegisterPasswordMsg" = "Enter a password to Open kids Library";
+"enterUnlockPasswordMsg" = "Please enter your password.";
+"enterPasswordAgainMsg" = "Please enter password again.";
+"passwordNotMatchMsg" = "Passwords do not match.";
+"passwordIncorrectMsg" = "Password is incorrect.";
+"authFailedMsg" = "Authentication failed.";
+"bioAuthDisabledMsg" = "Bio auth is disabled.";
+
+"passwordLockReason" = "App unlock.";
+

@@ -1,0 +1,94 @@
+/* 
+  Localizable.strings
+  eBook
+
+  Created by Fno Khalid on 01/05/1443 AH.
+  
+*/
+
+// welcome Page  \nand
+"descriptionLabel" = "كتابك معك في أي مكان \n وأي وقت";
+"About Us" = "حولنا";
+"Login Now" = "تسجيل دخول";
+"Create an Account" = "تسجيل حساب جديد";
+
+// login Page:
+"login" = "تسجيل دخول";
+"email" = " أدخل إيميلك";
+"password" = " أدخل كلمة المرور ";
+"Sign In" = "دخول";
+"register" = "ليس لديك حساب؟ سجل الآن";
+
+// register page:
+"Register" = "تسجيل";
+"name" = "اكتب اسمك";
+"email" = "أدخل إيميلك";
+"password" = "أدخل كلمة المرور";
+"Sign Up" = "تسجيل";
+"Already a Member? Sign In" = "لديك حساب؟ ادخل الآن";
+
+// forget password:
+"forget" = "نسيت كلمة المرور؟";
+
+
+// tab Bar:
+"home" = "الرئيسية";
+"child" = "الأطفال";
+"favourite" = "المفضلة";
+"profile" = "الملف الشخصي";
+
+// label:
+"choose" = "اختر لغة الكتاب :";
+
+// buttons:
+"english" = "إنجليزي";
+"arabic" = "عربي";
+
+// Favourite page:
+"favPage" = "الكتب المفضلة";
+
+// profile page:
+"profile" = "الملف الشخصي";
+"write" = "اكتب إسمك";
+"change" = "       تغيير اللغة";
+"mode" = "          مكتبة الأطفال";
+"darkMode" = "          النمط الداكن";
+"share" = "       مشاركة التطبيق";
+"signOut" = "        تسجيل خروج";
+
+// delete from favorite Books
+"delete" = "حذف الكتاب";
+"areYou?" = "هل تريد حذف هذا الكتاب ؟";
+"cancel" = "إلغاء";
+"d" = "حذف";
+
+// greeting
+"Good Afternoon" = " نهار سعيد ";
+"Good Morning" = "  صباح الخير ";
+"Good Evening" = "  مساء الخير ";
+"Good Night" = "  😴  تصبح على خير";
+"Sleep" = " 💤  حان وقت النوم ";
+
+// cildren Greeting
+"Good AfternoonB" = "نهار سعيد أيها القارئ الصغير ♥️";
+"Good MorningB" = "صباح الخير أيها القارئ الصغير ♥️";
+"Good EveningB" = "مساء الخير أيها القارئ الصغير  ♥️";
+"Good NightB" = "تصبح على خير أيها القارئ الصغير 😴";
+"SleepB" = "حان وقت النوم أيها القارئ الصغير 💤";
+
+// word
+"delete" = "حذف";
+"back" = "رجوع";
+"faceId" = "Face ID";
+"touchId" = "Touch ID";
+
+// message
+"enterRegisterPasswordMsg" = "أدخل الرقم السري للانتقال لـمكتبة الطفل";
+"enterUnlockPasswordMsg" = "أدخل الرقم السري";
+"enterPasswordAgainMsg" = "أدخل الرقم السري مرة أخرى";
+"passwordNotMatchMsg" = "كلمة السر غير متطابقة";
+"passwordIncorrectMsg" = "كلمة السر خاطئة";
+"authFailedMsg" = "Authentication failed.";
+"bioAuthDisabledMsg" = "Bio auth is disabled.";
+
+"passwordLockReason" = "App unlock.";

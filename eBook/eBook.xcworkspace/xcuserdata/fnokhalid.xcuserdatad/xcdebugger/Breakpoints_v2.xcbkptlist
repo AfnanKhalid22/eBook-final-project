@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "855D70B3-BBB9-4ACB-AF5E-3D453AAAB1E5"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3FBF595-1DCD-4BE9-9CD2-FBBFEF709F04"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "eBook/Controolers/Book1.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "Book1"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B3FBF595-1DCD-4BE9-9CD2-FBBFEF709F04 - 7e9db9f504e3790f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eBook.Book1.books.getter : Swift.Optional&lt;eBook.Book&gt;"
+                  moduleName = "eBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnokhalid/Desktop/eBook/eBook/Controolers/Book1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "B3FBF595-1DCD-4BE9-9CD2-FBBFEF709F04 - d9d97120a1311103"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eBook.Book1.books.setter : Swift.Optional&lt;eBook.Book&gt;"
+                  moduleName = "eBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnokhalid/Desktop/eBook/eBook/Controolers/Book1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "B3FBF595-1DCD-4BE9-9CD2-FBBFEF709F04 - 4c0c4e38c0db0503"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eBook.Book1.books.modify : Swift.Optional&lt;eBook.Book&gt;"
+                  moduleName = "eBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnokhalid/Desktop/eBook/eBook/Controolers/Book1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "B3FBF595-1DCD-4BE9-9CD2-FBBFEF709F04 - 50a4bc8126fd6303"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eBook.Book1.books.modify : Swift.Optional&lt;eBook.Book&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "eBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnokhalid/Desktop/eBook/eBook/Controolers/Book1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "B3FBF595-1DCD-4BE9-9CD2-FBBFEF709F04 - 74fe4c1f9f5c32f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eBook.Book1.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; eBook.Book1"
+                  moduleName = "eBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnokhalid/Desktop/eBook/eBook/Controolers/Book1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "B3FBF595-1DCD-4BE9-9CD2-FBBFEF709F04 - e9d0a59889d7f9a9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eBook.Book1.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;eBook.Book1&gt;"
+                  moduleName = "eBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnokhalid/Desktop/eBook/eBook/Controolers/Book1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0171F05C-30CE-43A4-8623-76A606B0055F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "eBook/Controolers/Book1.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "Book1"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0171F05C-30CE-43A4-8623-76A606B0055F - 7e9db9f504e3790f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eBook.Book1.books.getter : Swift.Optional&lt;eBook.Book&gt;"
+                  moduleName = "eBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnokhalid/Desktop/eBook/eBook/Controolers/Book1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "0171F05C-30CE-43A4-8623-76A606B0055F - d9d97120a1311103"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eBook.Book1.books.setter : Swift.Optional&lt;eBook.Book&gt;"
+                  moduleName = "eBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnokhalid/Desktop/eBook/eBook/Controolers/Book1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "0171F05C-30CE-43A4-8623-76A606B0055F - 4c0c4e38c0db0503"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eBook.Book1.books.modify : Swift.Optional&lt;eBook.Book&gt;"
+                  moduleName = "eBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnokhalid/Desktop/eBook/eBook/Controolers/Book1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "0171F05C-30CE-43A4-8623-76A606B0055F - 50a4bc8126fd6303"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eBook.Book1.books.modify : Swift.Optional&lt;eBook.Book&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "eBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnokhalid/Desktop/eBook/eBook/Controolers/Book1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "0171F05C-30CE-43A4-8623-76A606B0055F - 74fe4c1f9f5c32f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eBook.Book1.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; eBook.Book1"
+                  moduleName = "eBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnokhalid/Desktop/eBook/eBook/Controolers/Book1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "0171F05C-30CE-43A4-8623-76A606B0055F - e9d0a59889d7f9a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eBook.Book1.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;eBook.Book1&gt;"
+                  moduleName = "eBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnokhalid/Desktop/eBook/eBook/Controolers/Book1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C27762C4-93B5-4703-8844-2696B4E7224A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "eBook/Controolers/EnglishVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "searchBarCancelButtonClicked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

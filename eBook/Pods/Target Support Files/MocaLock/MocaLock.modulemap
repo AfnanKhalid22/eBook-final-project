@@ -1,0 +1,6 @@
+framework module MocaLock {
+  umbrella header "MocaLock-umbrella.h"
+
+  export *
+  module * { export * }
+}
