@@ -1,6 +1,12 @@
 # final-project-eBook
 eBook App 
 
+I was working on another repo but due to the huge size of files i needed to start this one.
+The some sounds and PDF files were removed due to the large file size and the inability to upload it.
+
+# old repository Link:
+ [click here](https://github.com/AfnanKhalid22/final-project-eBook)
+
 
 # Project Description :
 “eBook App” is a Swift application, is a collection of Arabic and English book libraries, contains many  books for adults and children, designed to help users read books anywhere and any time easily.
