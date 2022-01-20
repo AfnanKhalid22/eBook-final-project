@@ -9,7 +9,7 @@ eBook App
 
 
 # Project Description :
-“eBook App” is a Swift application, is a collection of Arabic and English book libraries, contains many  books for adults and children, designed to help users read books anywhere and any time easily.
+“eBook App” is a Swift application, is a collection of Arabic and English book libraries, contains many books for adults and children, designed to help users read and listen books anywhere and any time easily.
 
 ### Features List:
 
