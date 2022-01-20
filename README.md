@@ -125,6 +125,6 @@ _ Favourite Services.
   -user.delete
 
 # repository Link:
- [click here](https://github.com/AfnanKhalid22/final-project-eBook)
+ [click here](https://github.com/AfnanKhalid22/eBook-final-project)
 
 
