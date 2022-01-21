@@ -23,7 +23,7 @@ class HomeVC: UIViewController {
            hello.textAlignment = .center
            hello.font = UIFont(name: "Hoefler Text Italic", size: 23)
            hello.backgroundColor =  UIColor(red: 216/255, green: 198/255, blue: 174/255, alpha: 1)
-           hello.layer.cornerRadius = 70
+           hello.layer.cornerRadius = 150
            hello.layer.cornerCurve = .circular
            hello.layer.masksToBounds = true
         
@@ -130,14 +130,14 @@ class HomeVC: UIViewController {
             
 
             helloLbl.topAnchor.constraint(equalTo: view.topAnchor, constant: 70),
-            helloLbl.trailingAnchor.constraint(equalTo: view.trailingAnchor, constant: 10),
+            helloLbl.trailingAnchor.constraint(equalTo: view.trailingAnchor, constant: 50),
             helloLbl.leadingAnchor.constraint(equalTo: view.leadingAnchor, constant: -250),
             helloLbl.widthAnchor.constraint(equalToConstant: 320),
             helloLbl.heightAnchor.constraint(equalToConstant: 50),
             
             
             nameLbl.topAnchor.constraint(equalTo: view.topAnchor, constant: 70),
-            nameLbl.trailingAnchor.constraint(equalTo: view.trailingAnchor, constant: -10),
+            nameLbl.trailingAnchor.constraint(equalTo: view.trailingAnchor, constant: -50),
             nameLbl.leadingAnchor.constraint(equalTo: view.leadingAnchor, constant: 70),
             nameLbl.widthAnchor.constraint(equalToConstant: 320),
             nameLbl.heightAnchor.constraint(equalToConstant: 50)
